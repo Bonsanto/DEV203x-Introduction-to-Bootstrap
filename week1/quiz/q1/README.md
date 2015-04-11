@@ -1,4 +1,4 @@
----Question (1 point possible)---
+Question (1 point possible)
 
 You have a web page that displays an image. The image file is named image1.jpg, and is in a folder named folder1.
 
