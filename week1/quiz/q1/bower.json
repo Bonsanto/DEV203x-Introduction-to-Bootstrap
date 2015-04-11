@@ -1,0 +1,23 @@
+{
+  "name": "Question 1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Bonsanto/DEV203x-Introduction-to-Bootstrap",
+  "authors": [
+    "Bonsanto <xbonsx@gmail.com>"
+  ],
+  "main": "index.html",
+  "keywords": [
+    "Bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
