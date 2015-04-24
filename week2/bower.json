@@ -1,0 +1,12 @@
+{
+  "name": "week2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Bonsanto/DEV203x-Introduction-to-Bootstrap",
+  "authors": [
+    "Bonsanto <xbonsx@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
